@@ -2,7 +2,7 @@
 
 Yet another reimplementation of TFHE in C++17.
 
-About 12.5 ms/gate on Intel i7-8700.
+About 11 ms/gate on Intel i7-8700.
 
 ## Caveat
 
